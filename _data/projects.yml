@@ -1,16 +1,26 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Build manufacturing AI datasets (자유목적 제조 AI 데이터셋 구축), Ministry of SMEs and Startups (중소벤처기업부), Korea
+  duration: Sep. 2021 &mdash; Dec. 2021
+  url: https://www.kamp-ai.kr/
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+
+- project: AI-based defect prediction during the CFRP drilling process with an industrial robot machining system, 2021 AI Challengers Program in Ulsan National Institute of Science and Technology, Korea / Team leader
+  duration: Aug. 2021 &mdash; Dec. 2021
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+
+
+- project: 3D Pose Estimation Motion Data Development based on the Fusion of 3D Data and AI (3D 데이터 와 AI의 기술융합을 기반한 3D Pose Estimation Motion Data 개발), Institute of Information & communications Technology Planning & evaluation (IITP, 정보통신기획평가원), Korea / Team leader
+  duration: Apr. 2021 &mdash; Mar. 2022
+  # url: "#"
+
+  
+- project: Building AI datasets for designated facility manufacturing (지정설비 제조 AI 데이터셋 구축), Ministry of SMEs and Startups (중소벤처기업부), Korea 
+  duration: Sep. 2020 &mdash; Nov. 2020
+  url: https://www.kamp-ai.kr/
+
+
+- project: Manufacturing data analysis and AI model development, InterX, Korea
+  duration: Jun. 2020  &mdash; Nov. 2020
+  # url: "#"
