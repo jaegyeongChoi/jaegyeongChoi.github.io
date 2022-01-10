@@ -37,16 +37,15 @@ resume_section_education:       true
 resume_section_publication:     true
 resume_section_projects:        true
 resume_section_conferences:     true
-resume_section_recognition:     false
-resume_section_links:           true
-resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_publication_dom: true
+resume_section_award:           true
+
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/jaegyeongChoi"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/jaegyeong-choi-260a64161"
 resume_print_social_links:      true
 
 # Design settings
