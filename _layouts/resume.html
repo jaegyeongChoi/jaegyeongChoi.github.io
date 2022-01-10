@@ -72,11 +72,11 @@
 
       
       {% if site.resume_section_publication %}
-      <!-- begin Publication -->
+      <!-- begin Publication  -->
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Publication</h2>
+          <h2>Publication (SCIE/ESCI)</h2>
         </header>
 
         {% for job in site.data.publication %}
@@ -121,7 +121,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Skills</h2>
+          <h2>Conferences</h2>
         </header>
         {% for confer in site.data.conferences %}
         <div class="resume-item">
@@ -133,6 +133,28 @@
       <!-- end Conferences -->
       {% endif %}
 
+
+      {% if site.resume_section_recognition_dom %}
+      <!-- begin Publication (domestic)  -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Publication (SCIE/ESCI)</h2>
+        </header>
+
+        {% for job in site.data.publication_domestic %}
+        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+          <h4 class="resume-item-details" itemprop="description">{{ job.position }}  </h4>
+          <h4 class="resume-item-details"> <SMALL>{{ job.duration }}</SMALL></h4>
+          <p class="resume-item-copy">{{ job.summary }}</p>
+        </div><!-- end of resume-item -->
+        {% endfor %}
+
+      </section>
+      <!-- end Publication (domestic) -->
+      {% endif %}
+
+      
       {% if site.resume_section_recognition %}
       <!-- begin Recognition -->
       <section class="content-section">
