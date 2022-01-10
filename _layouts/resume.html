@@ -59,7 +59,7 @@
         {% for job in site.data.experience %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h4 class="resume-item-details" itemprop="description">{{ job.position }}  &bull;  <I><SMALL><a href="{{ job.url }}">link</a></SMALL></I></h4>
-          <p<BIG> class="resume-item-details">{{ job.duration }}</BIG></p>
+          <p class="resume-item-details"><BIG>{{ job.duration }}</BIG></p>
           <p class="resume-item-copy">{{ job.summary }}</p>
         </div><!-- end of resume-item -->
         {% endfor %}
@@ -81,15 +81,7 @@
           <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
           <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
           <h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5>
-          <p class="resume-item-copy" itemprop="description">
-            <ul class="resume-item-list">
-              {% for award in education.awards %}
-              <li>{{ award.award }}</li>
-              {% endfor %}
-            </ul>
-
-
-          <p class="resume-item-copy">{{ education.summary }}</p>
+          <p class="resume-item-copy">{{ education.advisor }}</p>
         </div>
         {% endfor %}
       </section>
