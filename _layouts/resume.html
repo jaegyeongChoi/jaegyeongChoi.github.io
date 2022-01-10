@@ -166,7 +166,7 @@
         {% for recognition in site.data.award %}
         <div class="resume-item">
           <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
-          <h4 class="resume-item-details">{{ recognition.organization }} &bull; {{ recognition.year }}</h4>
+          <h4 class="resume-item-details"><SMALL>{{ recognition.organization }} &bull; {{ recognition.year }}</SMALL></h4>
           <p class="resume-item-copy"><I><a href="{{ recognition.url }}"> news link</a></I></p>
         </div>
         {% endfor %}
