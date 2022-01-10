@@ -1,6 +1,6 @@
 # Site settings
 title: "Jae Gyeong Choi's Curriculum Vitae"
-description: "A resume template for Jekyll and GitHub Pages sites."
+description: "A resume for Jekyll and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
@@ -23,7 +23,7 @@ resume_contact_address:         "50, UNIST-gil, Eonyang-eup, Ulju-gun, Ulsan, Re
 resume_header_contact_info:     "50, UNIST-gil, Eonyang-eup, Ulju-gun, Ulsan, Republic of Korea • +82) 010-5588-6043 • choil6043@unist.ac.kr"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I'm a combined MS/Ph.D student at Unstructured Data Mining and Machine Learning Laboratory (UDMML) in UNIST. My research interests are Industrial AI, Smart Factory, and XAI. </p>"
+resume_header_intro: "<p>I'm a combined MS/Ph.D student at Unstructured Data Mining and Machine Learning Laboratory <a href="http://sunghoonlim.unist.ac.kr/">(UDMML)</a> in UNIST. My research interests are Industrial AI, Smart Factory, and XAI. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
