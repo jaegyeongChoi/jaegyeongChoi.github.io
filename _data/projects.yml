@@ -1,5 +1,11 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
+- project: Development of an AI algorithm for detecting IH cooktop abnormal cooking scene (IH 쿡탑 비정상 조리 Scene 감지를 위한 인공지능 알고리즘 개발)
+  institue: LG Electronics (LG전자), Korea
+  duration: Jan. 2022 &mdash; Jul. 2022
+  role: Team leader
+#   url: "#"
+
 
 - project: Build manufacturing AI datasets (자유목적 제조 AI 데이터셋 구축)
   institue: Ministry of SMEs and Startups (중소벤처기업부), Korea
