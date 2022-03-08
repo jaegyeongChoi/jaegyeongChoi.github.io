@@ -91,7 +91,29 @@
       <!-- end Publication -->
       {% endif %}
 
+      
+      
+      {% if site.resume_section_award %}
+      <!-- begin Awards -->
+      <section class="content-section">
 
+        <header class="section-header">
+          <h2>Awards and Honors</h2>
+        </header>
+
+        {% for recognition in site.data.award %}
+        <div class="resume-item">
+          <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
+          <h4 class="resume-item-details"><SMALL>{{ recognition.organization }} &bull; {{ recognition.year }}</SMALL></h4>
+          <p class="resume-item-copy"><I><a href="{{ recognition.url1 }}"> korean</a> <a href="{{ recognition.url2 }}"> english</a></I></p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Awards -->
+      {% endif %}
+      
+      
 
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
@@ -117,27 +139,25 @@
 
 
       
-      {% if site.resume_section_award %}
-      <!-- begin Awards -->
+      {% if site.resume_section_patents %}
+      <!-- begin Patents -->
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Awards and Honors</h2>
+          <h2>Patents</h2>
         </header>
-
-        {% for recognition in site.data.award %}
+        {% for patent in site.data.patent %}
         <div class="resume-item">
-          <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
-          <h4 class="resume-item-details"><SMALL>{{ recognition.organization }} &bull; {{ recognition.year }}</SMALL></h4>
-          <p class="resume-item-copy"><I><a href="{{ recognition.url1 }}"> korean</a> <a href="{{ recognition.url2 }}"> english</a></I></p>
+          <p class="resume-item-copy">{{ patent.description }}</p>
         </div>
         {% endfor %}
 
       </section>
-      <!-- end Awards -->
+      <!-- end Patents -->
       {% endif %}
 
 
+      
 
       {% if site.resume_section_conferences %}
       <!-- begin Conferences -->
