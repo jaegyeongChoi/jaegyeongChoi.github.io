@@ -1,7 +1,12 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL    
 #   url: "#"
+- project: Development of an AI model for the optimal process operation through machined surface image generation and defect cause analysis of a carbon fiber reinforced plastic drilling process with industrial robots (산업용 로봇을 이용한 탄소섬유복합재 드릴링 공정 가공면 이미지 생성 및 결함 원인 분석을 통한 AI기반의 최적 공정 운용 시스템 개발)
+  institue: 2022 AI Challengers Program in Ulsan National Institute of Science and Technology, Korea
+  duration: Apr. 2022 &mdash; Dec. 2022
+  role: Team leader
 
+  
 - project: 2022 「Female Graduate Student Engineering Research Team Support Project」 Advanced course research (2022년도 「여대학원생 공학연구팀제 지원사업」 심화과정 연구팀)
   institue: Korea Foundation for Women In Science, Engineering and Technology (한국여성과학기술인육성재단), Korea
   duration: Apr. 2022 &mdash; Oct. 2022
@@ -20,7 +25,7 @@
   url: https://www.kamp-ai.kr/
 
 
-- project: AI-based defect prediction during the CFRP drilling process with an industrial robot machining system
+- project: AI-based defect prediction during the CFRP drilling process with an industrial robot machining system (AI를 기반으로 한 산업용 로봇 가공 시스템의 CFRP 탄소섬유복합재 드릴링 가공 결함 예측)
   institue: 2021 AI Challengers Program in Ulsan National Institute of Science and Technology, Korea
   duration: Aug. 2021 &mdash; Dec. 2021
   role: Team leader
