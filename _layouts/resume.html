@@ -126,8 +126,9 @@
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
           <h4 class="resume-item-details" itemprop="name">{{ project.project }} {% if project.url %}  &bull; <I><SMALL><a href="{{ project.url }}">link</a></SMALL></I>{% endif %}</h4>
+          <p class="resume-item-copy"> <SMALL>{{project.kor}}</SMALL> </p>
+          <h4 class="resume-item-details"> <SMALL>{{project.institue}}</SMALL> </p>
           <h4 class="resume-item-details"> <SMALL>{{ project.role }} &bull; {{ project.duration }}</SMALL></h4>
-          <p class="resume-item-copy"> <SMALL>{{project.institue}}</SMALL> </p>
 
           
         </div>
