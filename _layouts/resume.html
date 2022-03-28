@@ -105,7 +105,7 @@
         <div class="resume-item">
           <h3 class="resume-item-title" itemprop="award">{{ recognition.award }}</h3>
           <h4 class="resume-item-details"><SMALL>{{ recognition.organization }} &bull; {{ recognition.year }}</SMALL></h4>
-          <p class="resume-item-copy"><I><a href="{{ recognition.url1 }}"> korean</a> <a href="{{ recognition.url2 }}"> english</a></I></p>
+          <p class="resume-item-copy"> {% if recognition.url1 %} <I><a href="{{ recognition.url1 }}"> korean</a>{% endif %} {% if recognition.url2 %}<a href="{{ recognition.url2 }}"> english</a></I>{% endif %}</p>
         </div>
         {% endfor %}
 
@@ -126,7 +126,7 @@
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
           <h4 class="resume-item-details" itemprop="name">{{ project.project }} {% if project.url %}  &bull; <I><SMALL><a href="{{ project.url }}">link</a></SMALL></I>{% endif %}</h4>
-          <h4 class="resume-item-details"> <SMALL>{{ project.duration }}</SMALL></h4>
+          <h4 class="resume-item-details"> <SMALL>{{ project.role }} &bull; {{ project.duration }}</SMALL></h4>
           <p class="resume-item-copy"> {{project.institue}} </p>
 
           
