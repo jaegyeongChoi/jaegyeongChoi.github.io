@@ -23,7 +23,7 @@ resume_contact_address:         "5sd0, UNIST-gil, Eonyang-eup, Ulju-gun, Ulsan, 
 resume_header_contact_info:     "50, UNIST-gil, Eonyang-eup, Ulju-gun, Ulsan, Republic of Korea • +82) 010-5588-6043 • choil6043@unist.ac.kr"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I'm a combined M.S./Ph.D. candidate in <a href="http://sunghoonlim.unist.ac.kr/">Industrial Intelligence Laboratory (II Lab)e</a> at UNIST. My research interests are Industrial AI, Multimodal learning, and XAI. </p>"
+resume_header_intro: "<p>I'm a combined M.S./Ph.D. candidate in <a href="https://www.sunghoonlim.unist.ac.kr/">Industrial Intelligence Laboratory (II Lab)</a> at UNIST. My research interests are Industrial AI, Multimodal learning, and XAI. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -47,7 +47,8 @@ resume_section_award:           true
 resume_social_links:
   resume_github_url:            "https://github.com/jaegyeongChoi"
   resume_linkedin_url:          "https://www.linkedin.com/in/jaegyeong-choi-260a64161"
-  resume_website_url:           "https://www.youtube.com/channel/UCluyKv1Ht-C-E5EheXScs8g"
+  resume_website_url:           "https://www.sunghoonlim.unist.ac.kr/"
+  resume_medium_url:            "https://www.youtube.com/channel/UCluyKv1Ht-C-E5EheXScs8g"
 resume_print_social_links:      true
 
 # Design settings
