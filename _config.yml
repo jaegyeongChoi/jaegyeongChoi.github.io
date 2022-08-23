@@ -47,7 +47,7 @@ resume_section_award:           true
 resume_social_links:
   resume_github_url:            "https://github.com/jaegyeongChoi"
   resume_linkedin_url:          "https://www.linkedin.com/in/jaegyeong-choi-260a64161"
-  resume_website_url:           "https://www.sunghoonlim.unist.ac.kr/"
+  resume_website_url:           "https://sunghoonlim.unist.ac.kr/"
   resume_medium_url:            "https://www.youtube.com/channel/UCluyKv1Ht-C-E5EheXScs8g"
 resume_print_social_links:      true
 
