@@ -1,8 +1,14 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL    
 #   url: "#"
-- project: Development of an AI algorithm for detecting IH cooktop abnormal cooking scene 
-  kor: IH 쿡탑 비정상 조리 Scene 감지를 위한 인공지능 알고리즘 개발
+- project: Improving the accuracy of temperature distribution estimation for IH cooktops smart heating using an AI model for predictive analysis.
+  kor: IH쿡탑의 스마트가열을 위한 온도 분포 추정 AI 모델 예측 적확도 향상
+  institue: LG Electronics (LG전자), Korea
+  duration: Mar. 2023 &mdash; Sept. 2023
+  role: Team leader
+
+- project: Development of an AI algorithm for estimating distributions to ensure reliability in time series forecasting
+  kor: 시계열 예측의 신뢰성 확보를 위한 분포 추정 인공지능 알고리즘 개발
   institue: LG Electronics (LG전자), Korea
   duration: Oct. 2022 &mdash; Mar. 2023
   role: Team leader
