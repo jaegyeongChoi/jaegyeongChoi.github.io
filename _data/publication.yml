@@ -1,4 +1,26 @@
 # paper
+- position: Multimodal 1D CNN for Delamination Prediction in CFRP Drilling Process with Industrial Robots
+  duration: Computers & Industrial Engineering (2024)
+  url: https://www.sciencedirect.com/science/article/pii/S0360835224001955
+  summary: </B>Jae Gyeong Choi</B><Sup>*</Sup>, Dong Chan Kim<Sup>*</Sup>, Miyoung Chung<Sup>*</Sup>, Sunghoon Lim, Hyung Wook Park
+
+- company: 
+  position: A multi-domain mixture density network for tool wear prediction under multiple machining conditions
+  duration: International Journal of Production (2023)
+  url: https://www.tandfonline.com/doi/full/10.1080/00207543.2023.2289076
+  summary: Gyeongho Kim, Sang Min Yang, Sinwon Kim, Do Young Kim, </B>Jae Gyeong Choi</B>, Hyung Wook Park, and Sunghoon Lim
+
+- company: 
+  position: Bayesian-Based Uncertainty-Aware Tool-Wear Prediction Model in End-Milling Process of Titanium Alloy
+  duration: Applied Soft Computing (2023)
+  url: https://www.sciencedirect.com/science/article/pii/S1568494623009407
+  summary: Gyeongho Kim<Sup>*</Sup>, Sang Min Yang<Sup>*</Sup>, Dong Min Kim, Sinwon Kim, </B>Jae Gyeong Choi</B>, Minjoo Ku, Sunghoon Lim, and Hyung Wook Park
+
+- position: Developing a semi-supervised learning and ordinal classification framework for quality level prediction in manufacturing
+  duration: Computers & Industrial Engineering (2023)
+  url: https://www.sciencedirect.com/science/article/pii/S0360835223003108
+  summary: Kim, Gyeongho, </B>Jae Gyeong Choi</B>, Minjoo Ku, and Sunghoon Lim†
+
 - company: United Nations Human Rights Council
   position: A Deep Learning-based Cryptocurrency Price Prediction Model That Uses On-chain Data
   duration: IEEE Access (2022)
@@ -18,9 +40,6 @@
   url : https://ieeexplore.ieee.org/abstract/document/9548039
   summary: Gyeongho Kim<Sup>*</Sup>, <B>Jae Gyeong Choi<Sup>*</Sup></B>, Minjoo Ku, Hyewon Cho, Sunghoon Lim
 
-
-- position: Multimodal 1D CNN for Delamination Prediction in CFRP Drilling Process with Industrial Robots
-  duration: (Under review)
   
 # - company: United Nations Human Rights Council
 - position: Accurate Synthesis of Sensor to Machined Surface Image Generation in CFRP Drilling
