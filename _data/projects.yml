@@ -1,6 +1,12 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL    
 #   url: "#"
+- project: Research on AI algorithms for distribution estimation capable of predicting pan temperature"
+  kor: Pan 온도 예측이 가능한 분포 추정 AI 알고리즘 연구
+  institue: LG Electronics (LG전자), Korea
+  duration: Dec. 2023 &mdash; Aug. 2024.
+  role: Team leader
+  
 - project: Improving the accuracy of temperature distribution estimation for IH cooktops smart heating using an AI model for predictive analysis
   kor: IH쿡탑의 스마트가열을 위한 온도 분포 추정 AI 모델 예측 적확도 향상
   institue: LG Electronics (LG전자), Korea
