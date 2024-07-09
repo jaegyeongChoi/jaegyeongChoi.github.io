@@ -4,45 +4,55 @@
   url : https://www.sciencedirect.com/science/article/pii/S0957417424015239
   summary: <B>Jae Gyeong Choi</B>, Dong Chan Kim, Miyoung Chung, Gyeongho Kim, Hyung Wook Park, Sunghoon Lim
 
+- position: Using transformer and a reweighting technique to develop a remaining useful life estimation method for turbofan engines
+  duration: Engineering Applications of Artificial Intelligence (2024)
+  url: https://www.sciencedirect.com/science/article/pii/S095219762400633X
+  summary: Gyeongho Kim, <B>Jae Gyeong Choi</B>, and Sunghoon Lim<Sup>†</Sup>
+
+- position: Developing a data-driven system for grinding process parameter optimization using machine learning and metaheuristic algorithms
+  duration: CIRP Journal of Manufacturing Science and Technology (2024)
+  url: https://www.sciencedirect.com/science/article/pii/S1755581724000518
+  summary: Gyeongho Kim, Soyeon Park, <B>Jae Gyeong Choi</B>, Sang Min Yang, Hyung Wook Park, Sunghoon Lim<Sup>†</Sup>
+  
 - position: Multimodal 1D CNN for Delamination Prediction in CFRP Drilling Process with Industrial Robots
   duration: Computers & Industrial Engineering (2024)
   url: https://www.sciencedirect.com/science/article/pii/S0360835224001955
-  summary: <B>Jae Gyeong Choi</B><Sup>*</Sup>, Dong Chan Kim<Sup>*</Sup>, Miyoung Chung<Sup>*</Sup>, Sunghoon Lim, Hyung Wook Park
+  summary: <B>Jae Gyeong Choi</B><Sup>*</Sup>, Dong Chan Kim<Sup>*</Sup>, Miyoung Chung<Sup>*</Sup>, Sunghoon Lim<Sup>†</Sup>, Hyung Wook Park<Sup>†</Sup>
 
 - position: A multi-domain mixture density network for tool wear prediction under multiple machining conditions
   duration: International Journal of Production (2023)
   url: https://www.tandfonline.com/doi/full/10.1080/00207543.2023.2289076
-  summary: Gyeongho Kim, Sang Min Yang, Sinwon Kim, Do Young Kim, <B>Jae Gyeong Choi</B>, Hyung Wook Park, and Sunghoon Lim
+  summary: Gyeongho Kim, Sang Min Yang, Sinwon Kim, Do Young Kim, <B>Jae Gyeong Choi</B>, Hyung Wook Park, and Sunghoon Lim<Sup>†</Sup>
 
 - position: Bayesian-Based Uncertainty-Aware Tool-Wear Prediction Model in End-Milling Process of Titanium Alloy
   duration: Applied Soft Computing (2023)
   url: https://www.sciencedirect.com/science/article/pii/S1568494623009407
-  summary: Gyeongho Kim<Sup>*</Sup>, Sang Min Yang<Sup>*</Sup>, Dong Min Kim, Sinwon Kim, <B>Jae Gyeong Choi</B>, Minjoo Ku, Sunghoon Lim, and Hyung Wook Park
+  summary: Gyeongho Kim<Sup>*</Sup>, Sang Min Yang<Sup>*</Sup>, Dong Min Kim, Sinwon Kim, <B>Jae Gyeong Choi</B>, Minjoo Ku, Sunghoon Lim<Sup>†</Sup>, and Hyung Wook Park<Sup>†</Sup>
 
 - position: Developing a semi-supervised learning and ordinal classification framework for quality level prediction in manufacturing
   duration: Computers & Industrial Engineering (2023)
   url: https://www.sciencedirect.com/science/article/pii/S0360835223003108
-  summary: Gyeongho Kim, <B>Jae Gyeong Choi</B>, Minjoo Ku, and Sunghoon Lim†
+  summary: Gyeongho Kim, <B>Jae Gyeong Choi</B>, Minjoo Ku, and Sunghoon Lim<Sup>†</Sup>
 
 - position: A Deep Learning-based Cryptocurrency Price Prediction Model That Uses On-chain Data
   duration: IEEE Access (2022)
   url : https://ieeexplore.ieee.org/document/9781377
-  summary: Gyeongho Kim<Sup>*</Sup>, Dong-hyun Shin<Sup>*</Sup>, <B>Jae Gyeong Choi</B>,, and Sunghoon Lim
+  summary: Gyeongho Kim<Sup>*</Sup>, Dong-hyun Shin<Sup>*</Sup>, <B>Jae Gyeong Choi</B>,, and Sunghoon Lim<Sup>†</Sup>
 
 - position: Car crash detection using ensemble deep learning and multimodal data from dashboard cameras
   duration: Expert Systems with Applications (2021)
   url : https://www.sciencedirect.com/science/article/pii/S095741742100823X
-  summary: <B>Jae Gyeong Choi</B>, Chan Woo Kong, Gyeongho Kim, Sunghoon Lim
+  summary: <B>Jae Gyeong Choi</B>, Chan Woo Kong, Gyeongho Kim, Sunghoon Lim<Sup>†</Sup>
 
 
 - position: A Multimodal Deep Learning-Based Fault Detection Model for a Plastic Injection Molding Process
   duration: IEEE Access (2021)
   url : https://ieeexplore.ieee.org/abstract/document/9548039
-  summary: Gyeongho Kim<Sup>*</Sup>, <B>Jae Gyeong Choi<Sup>*</Sup></B>, Minjoo Ku, Hyewon Cho, Sunghoon Lim
+  summary: Gyeongho Kim<Sup>*</Sup>, <B>Jae Gyeong Choi<Sup>*</Sup></B>, Minjoo Ku, Hyewon Cho, Sunghoon Lim<Sup>†</Sup>
 
   
 # - company: United Nations Human Rights Council
 
 
-- position: Multi-source domain generalisation for tool failure prediction in cryogenic milling of Ti-6AI-4V titanium alloy
-  duration: (Ongoing)
+- position: Supervised contrastive learning for multi-source domain generalization: Tool failure prediction in data-deficient cryogenic milling processes
+  duration: (Under review)
