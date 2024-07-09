@@ -1,4 +1,9 @@
 # paper
+- position: Accurate Synthesis of Sensor to Machined Surface Image Generation in CFRP Drilling
+  duration: Expert Systems with Applications (2024)
+  url : https://www.sciencedirect.com/science/article/pii/S0957417424015239
+  summary: <B>Jae Gyeong Choi</B>, Dong Chan Kim, Miyoung Chung, Gyeongho Kim, Hyung Wook Park, Sunghoon Lim
+
 - position: Multimodal 1D CNN for Delamination Prediction in CFRP Drilling Process with Industrial Robots
   duration: Computers & Industrial Engineering (2024)
   url: https://www.sciencedirect.com/science/article/pii/S0360835224001955
@@ -40,10 +45,7 @@
 
   
 # - company: United Nations Human Rights Council
-- position: Accurate Synthesis of Sensor to Machined Surface Image Generation in CFRP Drilling
-  duration: (Under review)
-#   url : https://ieeexplore.ieee.org/document/9781377
-#   summary: Gyeongho Kim<Sup>*</Sup>, Dong-hyun Shin<Sup>*</Sup>, <B>Jae Gyeong Choi</B>,, and Sunghoon Lim
+
 
 - position: Multi-source domain generalisation for tool failure prediction in cryogenic milling of Ti-6AI-4V titanium alloy
   duration: (Ongoing)
