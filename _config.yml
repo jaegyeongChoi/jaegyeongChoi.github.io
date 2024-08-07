@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "Jae Gyeong Choi | 최재경"
 resume_title:                   "Industrial AI specialist"
 
