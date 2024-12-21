@@ -23,7 +23,7 @@ resume_contact_address:         "choil6043@unist.ac.kr"
 resume_header_contact_info:     "50, UNIST-gil, Eonyang-eup, Ulju-gun, Ulsan, Republic of Korea • choil6043@unist.ac.kr"
 display_header_contact_info:    "yes"
 
-resume_header_intro: "<p>I'm a Ph.D. candidate in Industrial Intelligence Laboratory (IILab) at UNIST. My research interests are Industrial AI and Multimodal learning in manufacturing. </p>"
+resume_header_intro: "<p>I'm a Ph.D. candidate in Industrial Intelligence Laboratory (IILab) at UNIST. My research interests are industrial AI and multimodal learning in manufacturing. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
