@@ -14,16 +14,16 @@ resume_name:                    "Jae Gyeong Choi | 최재경"
 resume_title:                   "Industrial AI specialist"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "choil6043@unist.ac.kr"
+resume_contact_email:           "jgchoi@umd.edu"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 # resume_contact_telephone:       "+82) 010
-resume_contact_address:         "choil6043@unist.ac.kr"
+resume_contact_address:         "jgchoi@umd.edu"
 
-resume_header_contact_info:     "50, UNIST-gil, Eonyang-eup, Ulju-gun, Ulsan, Republic of Korea • choil6043@unist.ac.kr"
+resume_header_contact_info:     "1210 Jeong H. Kim Engineering Building, 8228 Paint Branch Dr, College Park, MD 20742 • jgchoi@umd.edu"
 display_header_contact_info:    "yes"
 
-resume_header_intro: "<p>I'm a Ph.D. candidate in Industrial Intelligence Laboratory (IILab) at UNIST. My research interests are industrial AI and multimodal learning in manufacturing. </p>"
+resume_header_intro: "<p>I'm a postdoctoral associate in Industrial Artificial Intelligence Center and Mechanical Engineering at University of Maryland. My research interests are industrial AI and multimodal learning in manufacturing. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -47,7 +47,7 @@ resume_section_award:           true
 resume_social_links:
   resume_github_url:            "https://github.com/jaegyeongChoi"
   resume_linkedin_url:          "https://www.linkedin.com/in/jaegyeong-choi-260a64161"
-  resume_website_url:           "https://sunghoonlim.unist.ac.kr/"
+  resume_website_url:           "https://iaicenter.com"
   resume_medium_url:            "https://www.youtube.com/channel/UCluyKv1Ht-C-E5EheXScs8g"
 resume_print_social_links:      true
 
