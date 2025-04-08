@@ -23,7 +23,7 @@ resume_contact_address:         "jgchoi@umd.edu"
 resume_header_contact_info:     "1210 Jeong H. Kim Engineering Building, 8228 Paint Branch Dr, College Park, MD 20742 • jgchoi@umd.edu"
 display_header_contact_info:    "yes"
 
-resume_header_intro: "<p>I'm a postdoctoral associate in Industrial Artificial Intelligence Center and Mechanical Engineering at University of Maryland. My research interests are industrial AI and multimodal learning in manufacturing. </p>"
+resume_header_intro: "<p>I'm a postdoctoral associate in Mechanical Engineering at University of Maryland. My research interests are industrial AI and multimodal learning in manufacturing. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
